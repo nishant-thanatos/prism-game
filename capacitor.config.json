@@ -1,0 +1,7 @@
+{
+  "appId": "com.yourname.prism.beampuzzle",
+  "appName": "PRISM: Neon Beam Puzzle",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": false }
+}

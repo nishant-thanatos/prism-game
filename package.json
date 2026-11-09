@@ -1,0 +1,12 @@
+{
+  "name": "prism-neon-beam-puzzle",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "latest",
+    "@capacitor/app": "latest",
+    "@capacitor/cli": "latest",
+    "@capacitor/core": "latest",
+    "@capacitor-community/admob": "latest"
+  }
+}
